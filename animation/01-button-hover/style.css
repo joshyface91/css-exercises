@@ -12,8 +12,13 @@ button {
   border-radius: 8px;
   border: none;
   background-color: #2563eb;
+  transition: transform .2s;
   color: white;
   font-size: 18px;
   padding: 16px 24px;
   text-align: center;
+}
+
+button:hover {
+  transform: scale(1.3);
 }
