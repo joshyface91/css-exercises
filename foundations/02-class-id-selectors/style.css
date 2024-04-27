@@ -1,0 +1,19 @@
+.odds {
+    background: #eca3af;
+    font-family: Verdana, DejaVu Sans, Geneva, Tahoma, sans-serif;
+}
+
+.middles {
+    font-size: 24px;
+}
+
+#second {
+    color: #3d3dd6;
+    font-size: 36px;
+}
+
+
+#fourth {
+    background: #82bb82;
+    font-weight: bold;
+}
